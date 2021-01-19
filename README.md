@@ -1,2 +1,2 @@
 # python-pi-example
-this is an examplo how to use git
+this is an example how to use git
