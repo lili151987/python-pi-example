@@ -1,5 +1,5 @@
 def main(msg):
-    //print a message123
+    //no longer need comments here
     print(msg)
 
 main ("Hola Mundo")
