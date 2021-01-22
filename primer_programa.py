@@ -1,5 +1,5 @@
 def main(msg):
-    //print a message1
+    //print a message123
     print(msg)
 
 main ("Hola Mundo")
